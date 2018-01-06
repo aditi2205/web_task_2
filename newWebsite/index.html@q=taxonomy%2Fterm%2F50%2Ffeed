@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Parttime</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=program-mode/50</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>M.Tech. (Mobile and Pervasive Computing)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityprograms/cse/mtech-mobile-and-pervasive-computing</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Parttime      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/computer-science-engineering&quot;&gt;Computer Science &amp;amp; Engineering&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/cse/prof-ela-kumar&quot;&gt;Prof. Ela Kumar&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;4 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-curriculum-document field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Curriculum Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/MTech_MPC_Syllabus.pdf&quot; type=&quot;application/pdf; length=396323&quot;&gt;MTech_MPC_Syllabus.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-947&quot; class=&quot;article node node-university-program-session node-odd node-default clearfix&quot; about=&quot;/drupal-7.54/?q=mtech-mobile-and-pervasive-computing-2017-18/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=mtech-mobile-and-pervasive-computing-2017-18/universityprogramsession&quot;&gt;M.Tech. (Mobile and Pervasive Computing) 2017-18&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;M.Tech. (Mobile and Pervasive Computing) 2017-18&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;&lt;b&gt;Rs. 75,000/- &lt;/b&gt; [Tuition Fee: Rs. 70,000/- + Students&#039; Welfare Fee: Rs. 5,000/-]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admission Information 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 07 May 2017 12:45:09 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">946 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityprograms/cse/mtech-mobile-and-pervasive-computing#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Notices</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=side-bar-menu/notices</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Notice of Computer Science and Student</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=notice-computer-science-and-student/side-menu-dept</link>
+ <description>
+&lt;div class=&quot;field field-name-field-departmentmenu field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-contenttype field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=side-bar-menu/notices&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Notices&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-display-field field-type-text-long field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Display Field:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Notice of Computer Science And Student&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 13:40:00 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">724 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=notice-computer-science-and-student/side-menu-dept#comments</comments>
+</item>
+</channel>
+</rss>

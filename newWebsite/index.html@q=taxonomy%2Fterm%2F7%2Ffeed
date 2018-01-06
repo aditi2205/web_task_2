@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Applied Sciences And Humanities</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=taxonomy/term/7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ash dept slider image</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=ash-dept-slider-image/departent-slider</link>
+ <description>&lt;div class=&quot;section field field-name-field-dept-image-slider field-type-image field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Dept Image Slider:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/lunapic_133092814263888_21.jpg&quot; width=&quot;500&quot; height=&quot;280&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-dept- field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 30 May 2017 15:41:45 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1414 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=ash-dept-slider-image/departent-slider#comments</comments>
+</item>
+<item>
+ <title>Applied Sciences Ad Hummanities</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=applied-sciences-ad-hummanities/departent-slider</link>
+ <description>&lt;div class=&quot;section field field-name-field-dept-image-slider field-type-image field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Dept Image Slider:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/AppliedSciences_0.jpg&quot; width=&quot;500&quot; height=&quot;280&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-dept- field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 30 May 2017 15:18:07 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1413 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=applied-sciences-ad-hummanities/departent-slider#comments</comments>
+</item>
+<item>
+ <title>Spatio-Temporal Variability of Aerosols over National Capital Region (NCR), India</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/ash/spatio-temporal-variability-aerosols-over-national-capital-region-ncr-india</link>
+ <description>
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt; Dr. Ranu Gadi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.5200000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;DST, New Delhi&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-start-year field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Start Year:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;2015&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-end-year field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;End Year:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;2017&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ongoing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Apr 2017 13:03:03 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">923 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/ash/spatio-temporal-variability-aerosols-over-national-capital-region-ncr-india#comments</comments>
+</item>
+<item>
+ <title>Panoramic Imaging</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/ash/panoramic-imaging</link>
+ <description>
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. Dinesh Ganotra&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.50000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;University Grants Commission, New Delhi&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Apr 2017 13:00:27 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">922 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/ash/panoramic-imaging#comments</comments>
+</item>
+<item>
+ <title>Multi-aperture Imaging</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/ash/multi-aperture-imaging</link>
+ <description>
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. Dinesh Ganotra&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.50000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;DST, Delhi&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Apr 2017 12:58:42 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">921 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/ash/multi-aperture-imaging#comments</comments>
+</item>
+<item>
+ <title>Investigation on Optical Properties of Si-ZnO Nanocomposites</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/ash/investigation-optical-properties-si-zno-nanocomposites</link>
+ <description>
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. Chhaya Ravikant&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.850000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;University Grants Commission, New Delhi&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Apr 2017 12:56:52 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">920 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/ash/investigation-optical-properties-si-zno-nanocomposites#comments</comments>
+</item>
+<item>
+ <title>Estimates of Indoor Air pollutants emitted from fuels used in residential sector of Northern India</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/ash/estimates-indoor-air-pollutants-emitted-fuels-used-residential-sector-northern-india</link>
+ <description>
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt; Dr. Ranu Gadi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.1800000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;CSIR, New Delhi&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 30 Apr 2017 12:53:53 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">919 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/ash/estimates-indoor-air-pollutants-emitted-fuels-used-residential-sector-northern-india#comments</comments>
+</item>
+<item>
+ <title>Best Theoretical Paper Award</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=best-theoretical-paper-award/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;Dr. Shailini Arora also won the  ‘Best Theoretical Paper Award’ for the study entitled ”A Lexi-Search Approach for a Time Minimizing Assignment Problem” presented in the XXX Annual Convention of ORSI, held at Jamshedpur, Dec 22-24, 1997.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-21T00:00:00+05:30&quot;&gt;Friday, April 21, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Apr 2017 20:20:27 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">818 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=best-theoretical-paper-award/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Young Scientist Award</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=young-scientist-award/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;Dr. Shailini Arora has been awarded the ‘Young Scientist Award’ by the SERC division of DST.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-21T00:00:00+05:30&quot;&gt;Friday, April 21, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Apr 2017 20:18:52 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">817 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=young-scientist-award/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Indian patents been granted  to Dr. Chhaya Ravikant</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=indian-patents-been-granted-dr-chhaya-ravikant/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;Two Indian patents have been granted  to Dr. Chhaya Ravikant in collaboration with National Research Development Corporation of India, INDIA&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;  (i) “A method of depositing thin films of metals and non metals”&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt; Patentee: Prof. M.P.Srivastava, Savita Roy and &lt;strong&gt;Dr. Chhaya Ravi Kant&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt; Patent no. 232763, Dt: 21/03/2009&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt; (ii)“A method of depositing thin films of non metals”&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt; Patentee: Prof. M.P.Srivastava, Savita Roy and &lt;strong&gt;Chhaya Ravi Kant&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt; Patent no. 218110, Dt: 31/03/2008&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Applied Sciences And Humanities&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-21T00:00:00+05:30&quot;&gt;Friday, April 21, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Apr 2017 20:17:31 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">816 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=indian-patents-been-granted-dr-chhaya-ravikant/universitycontent#comments</comments>
+</item>
+</channel>
+</rss>

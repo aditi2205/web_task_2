@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Electronics And Communication Engineering</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=taxonomy/term/5</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ece slider 1</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=ece-slider-1/departent-slider</link>
+ <description>&lt;div class=&quot;section field field-name-field-dept-image-slider field-type-image field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Dept Image Slider:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/Electronics_0.jpg&quot; width=&quot;500&quot; height=&quot;280&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-dept- field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/5&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Electronics And Communication Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 30 May 2017 15:58:04 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1417 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=ece-slider-1/departent-slider#comments</comments>
+</item>
+<item>
+ <title>Special Manpower Development Program for Chips to System</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=special-manpower-development-program-chips-system/project</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Special Manpower Development Programme (SMDP) is initiated by Ministry of Communication &amp;amp; Information Technology, Government of India with a vision to make India, a significant player in VLSI Design and related software.&lt;/p&gt;
+&lt;p&gt;During the 9th Plan, DeitY aimed to increase India’s share of global VLSI Design market from 0.5% to 5%. Recognising the fact that availability of quality human resource will be a key catalyst for achieving this target, DeitY started the “Special Manpower Development Programme in VLSI design and related software (SMDP- Phase-I)” in 1998 involving 19 academic and research institutions categorised into Resource Centres (7 in number - 5 IITs, IISc, CEERI) and Participating Institutes (12 in number). This resulted in generating about 9300 trained personnel with hands-on experience in VLSI designing and related areas.&lt;/p&gt;
+&lt;p&gt;The Phase II of the Special Manpower Development Programme in VLSI design and related software (SMDP II) was initiated in 2005 during the 10th Plan as a continuation of Phase-I with the aim to increase the global VLSI Design market share to around 15% by 2010.&lt;/p&gt;
+&lt;p&gt;The Phase II of the SMDP project brought additional participating institutions under its purview making 32 as the total number of implementing organisations that includes 25 Participating Institutions (NITs and few others) with the mentorship of 7 Resource Centers (mainly IITs, IISc and CEERI). Under SMDP-II, 23 Instruction Enhancement Programmes and four workshops involving International Guest Faculty were conducted to train the faculty of participating institutions on various topics. SMDP-II also resulted in design and fabrication of 42 designs/ASICs coming out of 14 Multi-Project-Wafer (MPW) runs which included both digital and analog ICs.&lt;/p&gt;
+&lt;p&gt;After the completion of SMDP Phase-II, an integrated program entitled “&lt;strong&gt;Special Manpower Development Program for Chips to System&lt;/strong&gt;” has been initiated which not only aims on developing specialized manpower in VLSI but also emphasizes on development of working prototypes of System on Chip / System using ASICs / ICs designed in the program.&lt;/p&gt;
+&lt;p&gt;This is a step towards bringing a System on Chip and System development culture in academic institutions in the country. This phase aims at broadening the VLSI Design &amp;amp; quality research base (through ‘Networked PhD’ Program) in the country and also take up new &amp;amp; distinctive initiatives which will ensure moving up in the value chain in System on Chip / system Development using mostly in-house designed ASICs / ICs.&lt;/p&gt;
+&lt;p&gt;In the Phase –III SMDP-C2SD, there are 17 new Participating Institutions. The implementation structure of SMDP-C2SD is similar to SMDP Phase II project where Participating Institutions (PIs) will be associated with one of the Resource Centers (RCs). The following RC-PI cluster has been finalized for SMDP-C2SD&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/5&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Electronics And Communication Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt; Dr. Jasdeep Kaur Dhanoa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ongoing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 15 Apr 2017 06:07:27 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">785 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=special-manpower-development-program-chips-system/project#comments</comments>
+</item>
+<item>
+ <title>PROF. ASHWANI KUMAR</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/prof-ashwani-kumar</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_prof_ashwni_kumar.jpg?itok=T7MCTkt0&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Professor &amp;amp; Chief Proctor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B.E.(ECE), DCE M.E.(ECE), DCE,Ph.D.(ECE),DU, MBA(FMS), DU
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Optical Communication, Digital Signal Processing, Strategic Management
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;xyz@igdtuw.ac.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:33:14 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">664 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/prof-ashwani-kumar#comments</comments>
+</item>
+<item>
+ <title> Dr. Nidhi Goel</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/dr-nidhi-goel</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_nidhi_ece.png?itok=WKbyVmYq&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical Sketch:&amp;nbsp;
+Dr. Nidhi Goel is working as an Associate Professor in Department of Electronics and Communication Engineering Department at Indira Gandhi Delhi Technical University, New Delhi. Prior to joining IGDTUW, she was associated with Delhi Technical University (Formerly, DCE). She has a teaching and research experience of approximately 14 years. She received her B.E. degree in Electronics and Communication and M.Tech. Degree in Digital Communication in 2001 and 2006, respectively. She pursued her research interest and completed her Ph.D. from Department of Electrical Engineering at the Indian Institute of Technology Roorkee, India. Her area of interest includes embedded systems, system on chip, wireless communication, multimedia encryption and visual cryptography.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B.E.(Electronics &amp;amp; Communication), M.Tech.(Digital Communication), Ph.D. (IIT Roorkee)
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Digital System Design, ASIC, Embedded Systems, Multimedia Security, Computer Vision, Soft Computing Techniques&amp;nbsp;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;nidhi.iitr@gmail.com &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Room No.&amp;nbsp;102, Electrical Block
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:32:10 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">663 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/dr-nidhi-goel#comments</comments>
+</item>
+<item>
+ <title>Dr. Vandana Niranjan</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/dr-vandana-niranjan</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_dsc_0010.jpg?itok=nlP9L96i&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical sketch:&amp;nbsp;
+Dr. Vandana Niranjan is working as an Associate Professor in Department of Electronics and Communication Engineering at Indira Gandhi Delhi Technical University Delhi. She&amp;nbsp; received her B.E. degree in Electronics and Communication Engineering&amp;nbsp; in the year 2000 from Government Engineering College (now University Institute of Technology of Rajiv Gandhi Proudyogiki Vishwavidyalaya) Bhopal. She received her M.Tech degree in the year 2002&amp;nbsp;from the Department of Electronics and Communication Engineering at Indian Institute of Technology Roorkee with&amp;nbsp;VLSI Design&amp;nbsp;as specialization. She pursued her research interest and was awarded her&amp;nbsp;Ph.D degree in the&amp;nbsp;area of Low Voltage VLSI Design from University School of Engineering &amp;amp; Technology, GGSIP University Delhi in the year 2015. She has a teaching and research experience of approximately 15 years at Indira Gandhi Delhi Technical University Delhi. She is member of I.E.T.E India,&amp;nbsp;Institution of Engineers India and IEEE &amp;amp; Women in Engineering USA.&amp;nbsp;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ph.D. (Low Voltage VLSI Design), GGSIPU
+M.Tech (VLSI Design), I.I.T Roorkee
+B.Tech (ECE), Govt. Engg. College, Bhopal​
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Low voltage CMOS circuits and Device modeling
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt; vandananiranjan@igdtuw.ac.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:31:50 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">662 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/dr-vandana-niranjan#comments</comments>
+</item>
+<item>
+ <title>Ms. Maria Jamal</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-maria-jamal</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_dsc_0014.jpg?itok=bDeq3y2l&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ms. Maria has 6 years of experience. She did her M.E from DCE and B.SC(Engg.) from Jamia Milia Islamia, Delhi.&amp;nbsp;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B.Sc. (Engineering), JMI,&amp;nbsp;M.E. (DCE), Pursuing Ph.D. (JMI)
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Control System, Circuit and Systems, Electrical Science
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;xyz@igdtuw.ac.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:29:05 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">661 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-maria-jamal#comments</comments>
+</item>
+<item>
+ <title>Ms. Shobha Sharma</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-shobha-sharma</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_dsc_0067.jpg?itok=GJqieb_0&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical Sketch:&amp;nbsp;
+Pursuing PhD in Nanocmos area at USET of GGSIP university.Topper of the PhD written test of GGSIP university’s USET, held on 24January 2010.An idealistic and multitalented person with approximately 65 international national and state level prizes in painting as well as in debate, speech ,dance, drama,sports and poetry(self written english poem(s) as well ).&amp;nbsp; Had worked in top US MNCs in chip design area before joining&amp;nbsp; IGDTUW. Interested in foreign research collaborations or MNCs research collaborations.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;M.E. (BITS Pilani), Pursuing Ph.D. GGSIPU
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;VLSI Design, Digital Circuits and Systems, Advanced Computer Architecture
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;shobhaa_sharma16@yahoo.co.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:15:19 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">660 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-shobha-sharma#comments</comments>
+</item>
+<item>
+ <title>Mr Pankaj Gupta</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/mr-pankaj-gupta</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_dsc_0004.jpg?itok=fe1QKMg0&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical Sketch:&amp;nbsp;
+Mr. Pankaj has more than 6 years of teaching experience. He did his M.E in Control and Instrumentation and B.Tech. in Electrical.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B.E. (Electrical) (BIT, Durg), M.E.(Control and Instrumentation), DCE,&amp;nbsp;Pursuing Ph.D(NIT, Kurukshetra)
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Control Engineering, Electrical Engineering, Neural Networks, Power Systems
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;xyz@igdtuw.ac.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:14:42 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">659 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/mr-pankaj-gupta#comments</comments>
+</item>
+<item>
+ <title> Mr. Kanchan Sharma</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/mr-kanchan-sharma</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_dsc_0053.jpg?itok=Rdiw2tCo&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical Sketch:
+Mr. Kanchan has more than 6 years of teaching experience. He is currently pursuing&amp;nbsp;PhD on &#039;Performance analysis of coded OFDM&#039;&amp;nbsp;from DCE under Prof. M Kulkarni and Principal (Prof) Asok DE (AIT). He did his M.Tech, B.Tech.and B.Sc from Allahabad University.
+
+Achievements:&amp;nbsp;
+IES&amp;nbsp;written exam qualified in two consecutive years, Gate Percentile 97.15
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B.Tech(ECE), Allahabad University,&amp;nbsp;M. Tech(ECE), Allahabad University,&amp;nbsp;Ph.D (Pursuing), DU
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Wireless Communication, Optical Communication, Signal Processing
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;joinkanchansharma@gmail.com&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:09:18 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">658 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/mr-kanchan-sharma#comments</comments>
+</item>
+<item>
+ <title>Ms. Greeshma Arya</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-greeshma-arya</link>
+ <description>&lt;div class=&quot;section field field-name-field-photograph field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/styles/faculty_photo/public/rsz_1dsc_0066.jpg?itok=t06AdP6I&quot; width=&quot;150&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-description field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Biographical Sketch:&amp;nbsp;
+Ms. Greeshma has more than 6.2 years&amp;nbsp;experience. She is currently pursuing PhD. She did her M.Tech&amp;nbsp; and B.Tech.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-post field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Assistant Professor
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-department field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Electronics And Communication Engineering      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-univeristy-qualification field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;B Tech, M Tech,&amp;nbsp;Ph. D (Pursuing) in Wireless Communication, UPTU
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-specialization field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Specialization:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Optical Communication, Wireless Sensor Networks
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-subjects-taught field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Subjects Taught:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;data not there
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-hod field-type-list-boolean field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;HOD:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-e-mail field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;E-mail:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;xyz@igdtuw.ac.in&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-phone field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Phone:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;---&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-website field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Website:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;--
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-office-address field-type-text-long field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Office Address:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Department Building
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Apr 2017 18:05:09 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">657 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityfaculty/ece/ms-greeshma-arya#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Regular</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=program-mode/49</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>B. Tech (Mechanical and Automation</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=b-tech-mechanical-and-automation/universityprograms</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/mechanical-and-automation-engineering&quot;&gt;Mechanical and Automation Engineering&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/mae/dr-nr-chauhan&quot;&gt;Dr. N.R. Chauhan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;8 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-timetable field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Timetable:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/Updated%20TIme_Table_MAE_semesterwise%202.pdf&quot; type=&quot;application/pdf; length=80845&quot;&gt;Updated TIme_Table_MAE_semesterwise 2.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 02 Dec 2017 16:04:10 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1622 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=b-tech-mechanical-and-automation/universityprograms#comments</comments>
+</item>
+<item>
+ <title>MCA</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=mca/universityprograms</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/information-technology&quot;&gt;Information Technology&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/it/dr-k-mohapatra&quot;&gt;Dr. A K Mohapatra&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;6 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-curriculum-document field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Curriculum Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/MCA_schemesyllabus1st%20yr_1.pdf&quot; type=&quot;application/pdf; length=272852&quot;&gt;MCA_schemesyllabus1st yr.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/MCA_syllabus_scheme%20IGDTUW%202nd%20year%203rd%20and%204th%20sem_0.pdf&quot; type=&quot;application/pdf; length=464768&quot;&gt;MCA_syllabus_scheme IGDTUW 2nd year 3rd and 4th sem.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/MCA%203rd%20year%20syllabus.pdf&quot; type=&quot;application/pdf; length=3859373&quot;&gt;MCA 3rd year syllabus.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-timetable field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Timetable:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/TIMETABLE_IT_DEPT_AUG_2017.2_1.pdf&quot; type=&quot;application/pdf; length=21964&quot;&gt;TIMETABLE_IT_DEPT_AUG_2017.2.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-lesson-plan-document field-type-file field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Lesson Plan Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/MCA%20206%20TOC_0.pdf&quot; type=&quot;application/pdf; length=210532&quot;&gt;MCA 206 TOC.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/Lesson%20Plan%20MCA%204th%20Semester_1.pdf&quot; type=&quot;application/pdf; length=148019&quot;&gt;Lesson Plan MCA 4th Semester.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Aug 2017 08:56:26 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1563 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=mca/universityprograms#comments</comments>
+</item>
+<item>
+ <title>M.Tech (ISM)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=mtech-ism/universityprograms</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/information-technology&quot;&gt;Information Technology&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/it/dr-k-mohapatra&quot;&gt;Dr. A K Mohapatra&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;4 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-curriculum-document field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Curriculum Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/syllabus%20M%20Tech%20ISM_0.pdf&quot; type=&quot;application/pdf; length=295327&quot;&gt;syllabus M Tech ISM.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-timetable field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Timetable:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/TIMETABLE_IT_DEPT_AUG_2017.3_0.pdf&quot; type=&quot;application/pdf; length=14333&quot;&gt;TIMETABLE_IT_DEPT_AUG_2017.3.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-931&quot; class=&quot;article node node-university-program-session node-odd node-default clearfix&quot; about=&quot;/drupal-7.54/?q=mtech-information-security-management-2017-18/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=mtech-information-security-management-2017-18/universityprogramsession&quot;&gt;M.Tech. (Information Security Management) 2017-18&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;M.Tech. (Information Security Management) 2017-18&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Rs. 75,000/- [Tuition Fee: Rs. 70,000/- + Students&#039; Welfare Fee: Rs. 5,000/-]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admission Information 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Aug 2017 08:39:45 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1551 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=mtech-ism/universityprograms#comments</comments>
+</item>
+<item>
+ <title>B.Tech. (Electronics &amp; Communications)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityprograms/ece/btech-electronics-communications</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-objectives field-type-text-with-summary field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Objectives:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;In the existing scenario of rapid and sophisticated development in the field of Electronics and Communications and its allied fields, the Department&#039;s intent and focus has always been to produce globally competitive and socially sensitized engineering graduates and to bring out quality research in the emerging areas of Electronics and Communication Engineering. The department is committed to provide quality and contemporary education in the domain of Electronics and Communication Engineering through latest curriculum, state-of-the-art laboratory facilities, collaborative ventures with industries and effective teaching-learning practices. Considering the latest trends in industry and research, the department has recently revised the UG curriculum to enhance the employability of students.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/electronics-and-communication-engineering&quot;&gt;Electronics and Communication Engineering&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/ece/dr-jasdeep-kaur-dhanoa&quot;&gt; Dr. Jasdeep Kaur Dhanoa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;8 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-957&quot; class=&quot;article node node-university-program-session node-even node-default clearfix&quot; about=&quot;/drupal-7.54/?q=btech-electronics-communications-2017-18/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=btech-electronics-communications-2017-18/universityprogramsession&quot;&gt;B.Tech. (Electronics &amp;amp; Communications) 2017-18&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;B.Tech. (Electronics &amp;amp; Communications) 2017-18&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;76 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;&lt;b&gt;Rs. 75,000/- &lt;/b&gt; [Tuition Fee: Rs. 70,000/- + Students&#039; Welfare Fee: Rs. 5,000/-]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admission Information 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 07 May 2017 14:05:59 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">956 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityprograms/ece/btech-electronics-communications#comments</comments>
+</item>
+<item>
+ <title>B.Arch.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityprograms/dap/barch</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/architecture-and-planning&quot;&gt;Architecture and Planning&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/dap/dr-preeti-vajpeyi&quot;&gt;Dr. Preeti Vajpeyi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;10 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-curriculum-document field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Curriculum Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/BArch_Syllabus.pdf&quot; type=&quot;application/pdf; length=741470&quot;&gt;BArch_Syllabus.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-953&quot; class=&quot;article node node-university-program-session node-odd node-default clearfix&quot; about=&quot;/drupal-7.54/?q=barch-2017-18/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=barch-2017-18/universityprogramsession&quot;&gt;B.Arch 2017-18&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;B.Arch 2017-18&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;&lt;b&gt;Rs. 90,000/-&lt;/b&gt; [Tuition Fee: Rs. 85,000/- + Students&#039; Welfare Fee: Rs. 5,000/-]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admission Information 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 07 May 2017 13:27:42 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">952 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityprograms/dap/barch#comments</comments>
+</item>
+<item>
+ <title>B.Tech. (Computer Science and Engineering)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityprograms/cse/btech-computer-science-and-engineering</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-objectives field-type-text-with-summary field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Objectives:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;jkjklj&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/computer-science-engineering&quot;&gt;Computer Science &amp;amp; Engineering&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/cse/prof-ela-kumar&quot;&gt;Prof. Ela Kumar&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;8 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-954&quot; class=&quot;article node node-university-program-session node-even node-default clearfix&quot; about=&quot;/drupal-7.54/?q=btech-computer-science-and-engineering-2017-18/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=btech-computer-science-and-engineering-2017-18/universityprogramsession&quot;&gt;B.Tech. (Computer Science and Engineering) 2017-18&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;B.Tech. (Computer Science and Engineering) 2017-18&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;152&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;&lt;b&gt;Rs. 75,000/- &lt;/b&gt; [Tuition Fee: Rs. 70,000/- + Students&#039; Welfare Fee: Rs. 5,000/-]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admission Information 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 07 May 2017 08:18:15 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">932 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityprograms/cse/btech-computer-science-and-engineering#comments</comments>
+</item>
+<item>
+ <title>B.Tech. (Information Technology)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=universityprograms/it/btech-information-technology</link>
+ <description>
+&lt;div class=&quot;field field-name-field-program-mode field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Program Mode:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        Regular      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-program-objectives field-type-text-with-summary field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Objectives:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Text about B.Tech (Information Techhnology) will come here.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-department field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universitydepartment/information-technology&quot;&gt;Information Technology&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-coordinator field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Head Of Department:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/drupal-7.54/?q=universityfaculty/it/dr-k-mohapatra&quot;&gt;Dr. A K Mohapatra&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;8 Semesters&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-curriculum-document field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Curriculum Document:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/B.Tech_.%20IT%20Scheme%20%20Syllabus%20IGDTUW_0.pdf&quot; type=&quot;application/pdf; length=395615&quot;&gt;B.Tech_. IT Scheme  Syllabus IGDTUW.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-timetable field-type-file field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Timetable:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/B.TECH%20IT%20JAN-MAY%202017_0.PDF&quot; type=&quot;application/pdf; length=85603&quot;&gt;B.TECH IT JAN-MAY 2017.PDF&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-session field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div id=&quot;article-929&quot; class=&quot;article node node-university-program-session node-odd node-default clearfix&quot; about=&quot;/drupal-7.54/?q=btech-information-technology-session-2017-2018/universityprogramsession&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+      &lt;div class=&quot;header article-header&quot;&gt;
+                    &lt;h2 class=&quot;node-title&quot;&gt;
+          &lt;a href=&quot;/drupal-7.54/?q=btech-information-technology-session-2017-2018/universityprogramsession&quot;&gt;B.Tech (Information Technology) Session 2017-2018&lt;/a&gt;
+        &lt;/h2&gt;
+            &lt;span property=&quot;dc:title&quot; content=&quot;B.Tech (Information Technology) Session 2017-2018&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;&lt;span property=&quot;sioc:num_replies&quot; content=&quot;0&quot; datatype=&quot;xsd:integer&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;    &lt;/div&gt;
+  
+  
+  &lt;div class=&quot;node-content&quot;&gt;
+    &lt;div class=&quot;section field field-name-field-ups-seats field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Seats:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;76 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-program-fee field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Program Fee:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;&lt;b&gt;Rs. 75,000/-&lt;/b&gt; [Tuition Fee: Rs. 70,000/- + Students&#039; Welfare Fee:  Rs. 5,000/- ]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-admission-info field-type-link-field field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Admission Info:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;http://igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/Admisssion%20Guidelines.PDF&quot;&gt;Admissions 2017-18&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 May 2017 16:19:00 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">924 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=universityprograms/it/btech-information-technology#comments</comments>
+</item>
+</channel>
+</rss>

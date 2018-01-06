@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - M.Tech</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=taxonomy/term/18</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Arm Internet of Things (IOT) Student Design Contest</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=arm-internet-things-iot-student-design-contest/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;ARM IoT Student Design Contest 2014 organized by ARM University Program India in collaboration with ACCS was a challenge for engineering students from all over India to put ARM technology to use in socially relevant projects armed their locality. On Jan 9th, 2015 out of 14 teams 11 teams were shortlisted for the second round of the design contest. These teams presented the progress they had made over the last four months. Out of these, three teams were selected by a panel of judges for the top three slots. Team CHAKSHU from IGDTUW comprising of three students from M.Tech (Mobile &amp;amp; Pervasive Computing) final year Ms. Ankita Gulati, Ms. Fatema Motiwala and Ms. Daffodils under the mentorship of Dr. S.R.N.Reddy &amp;amp; Ms. Nidhi Agarwal secured 2nd position in ARM Design Contest 2014. The award winning project was called Chakshu-RFID Based Shopping Assistant for Visually Impaired People which addresses the needs of visually impaired. The proposed system assists visually impaired people in solving Navigation, Object Identification, product information and Real-time decision making problems faced by them during shopping using RFID tags. ARM powered Freedom KL25Z has been used as the main computational unit and an android app has been used for providing audio output to the user. This project grant received by IGDTUW is supported by Design &amp;amp; Innovation project grant received by IGDTUW in collaboration with IIT Delhi under MHRD. The panel of judges appreciated the efforts made by the team IGDTUW for reaching out to the members of local community to discuss issues, work out solutions and demonstrate working prototypes.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+          &lt;li class=&quot;field-item odd&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;University&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-programs field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;programs:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/18&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;M.Tech&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Fri, 31 Mar 2017 16:33:27 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">522 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=arm-internet-things-iot-student-design-contest/universitycontent#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Computer Science And Engineering</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=taxonomy/term/4</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>cse slider 1</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=cse-slider-1/departent-slider</link>
+ <description>&lt;div class=&quot;section field field-name-field-dept-image-slider field-type-image field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Dept Image Slider:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/ComputerScience_0.jpg&quot; width=&quot;500&quot; height=&quot;280&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-dept- field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 30 May 2017 15:56:34 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">1416 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=cse-slider-1/departent-slider#comments</comments>
+</item>
+<item>
+ <title>Arm Internet of Things (IOT) Student Design Contest</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=arm-internet-things-iot-student-design-contest/universitycontent-0</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;ARM IoT Student Design Contest 2014 organized by ARM University Program India in collaboration with ACCS was a challenge for engineering students from all over India to put ARM technology to use in socially relevant projects armed their locality. On Jan 9th, 2015 out of 14 teams 11 teams were shortlisted for the second round of the design contest. These teams presented the progress they had made over the last four months. Out of these, three teams were selected by a panel of judges for the top three slots. Team CHAKSHU from IGDTUW comprising of three students from M.Tech (Mobile &amp;amp; Pervasive Computing) final year Ms. Ankita Gulati, Ms. Fatema Motiwala and Ms. Daffodils under the mentorship of Dr. S.R.N.Reddy &amp;amp; Ms. Nidhi Agarwal secured 2nd position in ARM Design Contest 2014. The award winning project was called Chakshu-RFID Based Shopping Assistant for Visually Impaired People which addresses the needs of visually impaired. The proposed system assists visually impaired people in solving Navigation, Object Identification, product information and Real-time decision making problems faced by them during shopping using RFID tags. ARM powered Freedom KL25Z has been used as the main computational unit and an android app has been used for providing audio output to the user. This project grant received by IGDTUW is supported by Design &amp;amp; Innovation project grant received by IGDTUW in collaboration with IIT Delhi under MHRD. The panel of judges appreciated the efforts made by the team IGDTUW for reaching out to the members of local community to discuss issues, work out solutions and demonstrate working prototypes&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-21T00:00:00+05:30&quot;&gt;Friday, April 21, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Apr 2017 20:25:59 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">822 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=arm-internet-things-iot-student-design-contest/universitycontent-0#comments</comments>
+</item>
+<item>
+ <title>Patents </title>
+ <link>http://172.16.19.10/drupal-7.54/?q=patents/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;Recently two patents have also been filed by CSE Dept. in the following areas:- &lt;/span&gt;&lt;/p&gt;
+&lt;ol start=&quot;1&quot;&gt;&lt;li class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;  Soil Multi-Parameters Remote Monitoring and Alerting System&lt;/span&gt;&lt;/li&gt;
+&lt;li class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;  A system for Building &amp;amp; Customizing Software and Hardware Interfaces of Smart Phone.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Award&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-21T00:00:00+05:30&quot;&gt;Friday, April 21, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Apr 2017 20:22:05 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">819 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=patents/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Notice of Computer Science and Student</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=notice-computer-science-and-student/side-menu-dept</link>
+ <description>
+&lt;div class=&quot;field field-name-field-departmentmenu field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-contenttype field-type-taxonomy-term-reference field-label-hidden clearfix&quot;&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=side-bar-menu/notices&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Notices&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-display-field field-type-text-long field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Display Field:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Notice of Computer Science And Student&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 13:40:00 +0000</pubDate>
+ <dc:creator>shreya</dc:creator>
+ <guid isPermaLink="false">724 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=notice-computer-science-and-student/side-menu-dept#comments</comments>
+</item>
+<item>
+ <title>Development of IoT Course </title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/development-iot-course</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Development of IoT Course&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Intel, India&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:57:38 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">710 at http://172.16.19.10/drupal-7.54</guid>
+</item>
+<item>
+ <title>My Smartphone Design and Development(MEK-3/NG)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/my-smartphone-design-and-developmentmek-3ng</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;My Smartphone Design and Development(MEK-3/NG)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Microsoft&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:56:28 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">709 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/cse/my-smartphone-design-and-developmentmek-3ng#comments</comments>
+</item>
+<item>
+ <title>Design and Innovation</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/design-and-innovation</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Innovation&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;MHRD&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:54:15 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">708 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/cse/design-and-innovation#comments</comments>
+</item>
+<item>
+ <title>Development of Embedded Systems Course Curriculum</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/development-embedded-systems-course-curriculum</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Development of Embedded Systems Course Curriculum&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Intel, India&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ongoing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:52:39 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">706 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/cse/development-embedded-systems-course-curriculum#comments</comments>
+</item>
+<item>
+ <title>Human Sense: Towards Context Aware Sensing, Inference and actuation for application in Energy and Healthcare</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/human-sense-towards-context-aware-sensing-inference-and-actuation-application-energy-and-healthcare</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;“Human Sense: Towards Context aware Sensing, Inference and actuation for application in Energy and Healthcare” funded by ITRA (MHRD). PI – Dr.  Amarjeet Singh(IIITD), Co PI- Dr. SRN Reddy(IGDTUW, Delhi), Rs. 240 Lacs, 27.49 Lacs for IGDTUW for 2014-2017&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-grant-amount field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Grant Amount:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Rs.2749000&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;ITRA, MHRD&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-duration field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Duration:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;36months&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-start-year field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Start Year:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;2014&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-end-year field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;End Year:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;2017&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ongoing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:51:09 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">705 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/cse/human-sense-towards-context-aware-sensing-inference-and-actuation-application-energy-and-healthcare#comments</comments>
+</item>
+<item>
+ <title>Mobile Education Kit (MEK-II)</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=project/cse/mobile-education-kit-mek-ii</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Mobile Education Kit (MEK-II)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-pdept field-type-taxonomy-term-reference field-label-inline clearfix clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Department:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/4&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Computer Science And Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-pi field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;PI:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Dr. S.R.N. Reddy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-funding-agency field-type-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Funding Agency:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;p&gt;Nokia University Relation&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-status field-type-list-text field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;Ongoing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 10 Apr 2017 01:48:29 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">704 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=project/cse/mobile-education-kit-mek-ii#comments</comments>
+</item>
+</channel>
+</rss>

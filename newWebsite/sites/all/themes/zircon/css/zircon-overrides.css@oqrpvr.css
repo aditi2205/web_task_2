@@ -1,0 +1,82 @@
+.block-search {
+	float: 	right;
+	height:	2.8em;
+	width: 22em
+	margin-top:1px;
+}
+
+#views_slideshow_cycle_main_university_latest_news-block_1 .views-field-title {
+	width:		62em;
+	margin-top:	-4px;
+	height:		18px;
+	font-family: 	Helvetica, Arial, Sans-Serif;
+	font-size: 	1.25em;
+}
+
+#block-views-university-latest-news-block-1 {
+	width:62em;
+	height:2.8em;
+	float:left;
+}
+
+#block-views-university-latest-news-block-1 a:link {color:black;}
+#block-views-university-latest-news-block-1 a:visited {color:black;}
+
+.view-image-slider .CaptionClass {
+i	right: 0px;
+    	font-size: 24px;
+    	color: white;
+    	text-align: center;
+    	background-color: #333;
+    	opacity: 0.75;
+    	position: absolute;
+    	bottom: 0px;
+    	width: 1024px;
+    	height: 40px;
+}
+
+.views-slideshow-controls-bottom .views-field-counter {
+	float:left;
+	width:10px;
+	padding: 5px 5px;
+	background:url("../images/Inactive_Btn_0.jpg") top left no-repeat;
+}
+
+.views-slideshow-controls-bottom .active .views-field-counter {
+	background:url("../images/Active_Btn_0.jpg") top left no-repeat;
+}
+
+.views-slideshow-controls-bottom .views-content-counter {
+	display:none;
+}
+
+#widget_pager_bottom_image_slider-block {
+	margin-top: 10px;
+	margin-left: 450px;
+}
+
+#panel-first-wrapper .grid-8 {
+	background: #f2f2f2;
+	height: 221.06px;
+	border:r50px;
+}
+
+#block-views-university-latest-news-block--2 .block-title {
+	background:#800000;
+}
+
+
+#block-views-university-events-block--2 .block-title {
+	background:#800000;
+}
+
+#block-views-university-awards-block--2 .block-title {
+	background:#800000;
+}
+
+#panel-first-wrapper .block-inner h2 {
+	color:white;
+	font-size:1.5em;
+	padding:5px;
+}
+

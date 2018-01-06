@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://172.16.19.10/drupal-7.54"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN - Event</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=taxonomy/term/10</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Workshop on Big Data</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=general/universityevents/workshop-big-data</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;a href=&quot;http://www.igdtuw.ac.in/images/stories/IT-Events/Broucher_New%201.pdf&quot;&gt;Workshop on Big Data&lt;/a&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/3&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Information Technology&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section field field-name-field-date-of-upload-content field-type-date field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Date Of Upload:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-07-05T00:00:00+05:30&quot;&gt;Wednesday, July 5, 2017&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-09-05T00:00:00+05:30&quot;&gt;Tuesday, September 5, 2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;section field field-name-field-file-cintent field-type-file field-label-above&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;File:&amp;nbsp;&lt;/h3&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/drupal-7.54/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://172.16.19.10/drupal-7.54/sites/default/files/Broucher_New%201_0.pdf&quot; type=&quot;application/pdf; length=452583&quot;&gt;Broucher_New 1.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 07 Jul 2017 05:16:34 +0000</pubDate>
+ <dc:creator>drupaluser</dc:creator>
+ <guid isPermaLink="false">1513 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=general/universityevents/workshop-big-data#comments</comments>
+</item>
+<item>
+ <title>Model United Nations Workshop</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=general/universityevents/model-united-nations-workshop</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;A model United Nations Workshop is going to be organized by MAE Department under SAE Collegiate Club on 28-29&lt;sup&gt;th&lt;/sup&gt; January 2012. A Model United Nations(MUN) conference is a student model simulation of the actual United Nations proceedings. In this the students act as representatives of various member nations of United Nations and debate and discuss the agenda that is provided to them in advance while keeping in mind the foreign policies of the respective nations. These students are judged on the basis of their research regarding the agenda and knowledge regarding the world affair and the United Nations. The following councils will be simulated at IGDTUW MUN 2012: NSG-Nuclear Supplier Group, UNCSTD-United Nation Commission on Science and Technology for Development&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/6&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Mechanical And Automation Engineering&lt;/a&gt;      &lt;/li&gt;
+          &lt;li class=&quot;field-item odd&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;University&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:10:00 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">475 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=general/universityevents/model-united-nations-workshop#comments</comments>
+</item>
+<item>
+ <title>ETHICAL HACKING WORKSHOP</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=ethical-hacking-workshop/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;MAE Department conducted a workshop on Ethical Hacking on 12&lt;sup&gt;th&lt;/sup&gt; and 13&lt;sup&gt;th&lt;/sup&gt; November 2011 organized by SAE Collegiate Club. SAE conducts many projects which require knowledge of softwares, operating systems and their information securities.Thus ethical hacking workshops provides a unique opportunity to learn and get clear perspective of ethical hacking, information security and cyber crime investigation. It would be an ideal platform to acquire the required knowledge to take counter measures and deal with cyber crime in an organization and personal life. The following issues were discussed in the workshop: Cyber ethics, Trojans and backdoors, Google Hacking, Web application attacks, Cyber crime investigation &amp;amp; information security &amp;amp; many more.&lt;br /&gt;
+There was live demonstration of latest hacking techniques and tools, hands on practice sessions, interaction of students with the hacking expert.The certificates were distributed to the students jointly byTech fest IIT Bombay, Tech Defence &amp;amp; IGDTUW.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/6&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Mechanical And Automation Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:09:32 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">474 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=ethical-hacking-workshop/universitycontent#comments</comments>
+</item>
+<item>
+ <title>WORKSHOP ON AUTOCAD</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=workshop-autocad/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;rtejustify&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;A 3 level Workshop on AUTOCAD was organized by MAE Department under SAE Collegiate Club whose first level was conducted on 19-20th Nov 2011. The next two levels will be conducted in January’12. AUTOCAD is a Computer Aided Design software used by 1st year students for designing and drafting. This workshop will help to increase productivity of Mechanical engineering students as designers. It was conducted by an expert from MITSU CAD CAM Solutions Pvt Ltd.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/6&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Mechanical And Automation Engineering&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:09:13 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">473 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=workshop-autocad/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Visited ACE Building Material Exhibition at Pragati Maidan 15th December 2016.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=visited-ace-building-material-exhibition-pragati-maidan-15th-december-2016/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:06:05 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">472 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=visited-ace-building-material-exhibition-pragati-maidan-15th-december-2016/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Students attended &#039;Kanch ki Paathshala&#039; at Pragati Maidan- a workshop on different types of glasses, technical details pertaining to use of glass in building industry on 9th December 2016.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=students-attended-kanch-ki-paathshala-pragati-maidan-workshop-different-types-glasses-technical</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:05:39 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">471 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=students-attended-kanch-ki-paathshala-pragati-maidan-workshop-different-types-glasses-technical#comments</comments>
+</item>
+<item>
+ <title>Visit to Lodhi Gardens for study of Monuments on 3.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=visit-lodhi-gardens-study-monuments-3/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:05:08 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">470 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=visit-lodhi-gardens-study-monuments-3/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Vendor Demonstrations at IGDTUW on Total station Surveying 6th October 2016.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=vendor-demonstrations-igdtuw-total-station-surveying-6th-october-2016/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:04:46 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">469 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=vendor-demonstrations-igdtuw-total-station-surveying-6th-october-2016/universitycontent#comments</comments>
+</item>
+<item>
+ <title>Active participation by students in home University fests Inerve ( 14th-15th October 2016) and Tarangana (3rd – 4th February 2017).</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=active-participation-students-home-university-fests-inerve-14th-15th-october-2016-and-tarangana-3rd</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:04:27 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">468 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=active-participation-students-home-university-fests-inerve-14th-15th-october-2016-and-tarangana-3rd#comments</comments>
+</item>
+<item>
+ <title>Visit to Sanskriti Kala Kendra to study Cost Effective Architecture on 9th September 2016.</title>
+ <link>http://172.16.19.10/drupal-7.54/?q=visit-sanskriti-kala-kendra-study-cost-effective-architecture-9th-september-2016/universitycontent</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;data is missing&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-departments field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;Departments:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/8&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Architecture And Planning&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-type field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;p class=&quot;field-label&quot;&gt;type:&amp;nbsp;&lt;/p&gt;
+    &lt;ul class=&quot;field-items&quot;&gt;
+          &lt;li class=&quot;field-item even&quot;&gt;
+        &lt;a href=&quot;/drupal-7.54/?q=taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Event&lt;/a&gt;      &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 29 Mar 2017 19:03:13 +0000</pubDate>
+ <dc:creator>smitiaggarwal</dc:creator>
+ <guid isPermaLink="false">467 at http://172.16.19.10/drupal-7.54</guid>
+ <comments>http://172.16.19.10/drupal-7.54/?q=visit-sanskriti-kala-kendra-study-cost-effective-architecture-9th-september-2016/universitycontent#comments</comments>
+</item>
+</channel>
+</rss>
